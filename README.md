@@ -7,3 +7,7 @@
 ## Credit
 
 **Original Author/Download:** https://hub.sp-tarkov.com/files/file/1516-ms-stola/
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U8VYS86)

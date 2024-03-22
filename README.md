@@ -1,6 +1,6 @@
 ## Installation
 
-- Go to releases and download the zip you want.
+- Go to releases and download the zip.
 - Extract contents into the folder with the {user} folder in it.
 - Overwrite any files that give the option.
 

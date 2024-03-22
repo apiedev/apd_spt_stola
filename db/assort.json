@@ -82,7 +82,7 @@
     "_id": "paca_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "paca",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "drd",
@@ -116,7 +116,7 @@
     "_id": "drd_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "drd",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "BNTIkirasa",
@@ -150,7 +150,7 @@
     "_id": "BNTIkirasa_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "BNTIkirasa",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "BNTIkirasa_collar_armor",
@@ -212,7 +212,7 @@
     "_id": "NFMthor_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "NFMthor",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "fortredut",
@@ -246,7 +246,7 @@
     "_id": "fortredut_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "fortredut",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "fortredut_collar_armor",
@@ -310,7 +310,7 @@
     "_id": "IOTVgen4_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "IOTVgen4",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "IOTVgen4_collar_armor",
@@ -374,7 +374,7 @@
     "_id": "zabralo_right_armor",
     "_tpl": "6575ea6760703324250610de",
     "parentId": "zabralo",
-    "slotId": "Soft_armor_right"
+    "slotId": "soft_armor_right"
 },
 {
     "_id": "zabralo_collar_armor",
@@ -494,13 +494,13 @@
 },
 {
     "_id": "airframe_top_armor",
-    "_tpl": "657f8ec5f4c82973640b234c",
+    "_tpl": "657f9897f4c82973640b235e",
     "parentId": "airframe",
     "slotId": "Helmet_top"
 },
 {
     "_id": "airframe_nape_armor",
-    "_tpl": "657f8f10f4c82973640b2350",
+    "_tpl": "657f98fbada5fadd1f07a585",
     "parentId": "airframe",
     "slotId": "Helmet_back"
 },
@@ -516,15 +516,15 @@
 },
 {
     "_id": "exfil_top_armor",
-    "_tpl": "657f8ec5f4c82973640b234c",
+    "_tpl": "6551fec55d0cf82e51014288",
     "parentId": "exfil",
-    "slotId": "Helmet_top"
+    "slotId": "helmet_top"
 },
 {
     "_id": "exfil_nape_armor",
-    "_tpl": "657f8f10f4c82973640b2350",
+    "_tpl": "655200ba0ef76cf7be09d528",
     "parentId": "exfil",
-    "slotId": "Helmet_back"
+    "slotId": "helmet_back"
 },
 {
     "_id": "ulachblack",
@@ -538,19 +538,19 @@
 },
 {
     "_id": "ulachblack_top_armor",
-    "_tpl": "657f8ec5f4c82973640b234c",
+    "_tpl": "657112234269e9a568089eac",
     "parentId": "ulachblack",
     "slotId": "Helmet_top"
 },
 {
     "_id": "ulachblack_nape_armor",
-    "_tpl": "657f8f10f4c82973640b2350",
+    "_tpl": "657112a4818110db4600aa66",
     "parentId": "ulachblack",
     "slotId": "Helmet_back"
 },
 {
     "_id": "ulachblack_ears_armor",
-    "_tpl": "657bc2e7b30eca976305118d",
+    "_tpl": "657112ce22996eaf110881fb",
     "parentId": "ulachblack",
     "slotId": "Helmet_ears"
 },
@@ -566,19 +566,19 @@
 },
 {
     "_id": "ulachtan_top_armor",
-    "_tpl": "657f8ec5f4c82973640b234c",
+    "_tpl": "657112234269e9a568089eac",
     "parentId": "ulachtan",
     "slotId": "Helmet_top"
 },
 {
     "_id": "ulachtan_nape_armor",
-    "_tpl": "657f8f10f4c82973640b2350",
+    "_tpl": "657112a4818110db4600aa66",
     "parentId": "ulachtan",
     "slotId": "Helmet_back"
 },
 {
     "_id": "ulachtan_ears_armor",
-    "_tpl": "657bc2e7b30eca976305118d",
+    "_tpl": "657112ce22996eaf110881fb",
     "parentId": "ulachtan",
     "slotId": "Helmet_ears"
 },
@@ -594,19 +594,19 @@
 },
 {
     "_id": "altyn_top_armor",
-    "_tpl": "657f8ec5f4c82973640b234c",
+    "_tpl": "657bc06daab96fccee08be9b",
     "parentId": "altyn",
     "slotId": "Helmet_top"
 },
 {
     "_id": "altyn_nape_armor",
-    "_tpl": "657f8f10f4c82973640b2350",
+    "_tpl": "657bc0d8a1c61ee0c303632f",
     "parentId": "altyn",
     "slotId": "Helmet_back"
 },
 {
     "_id": "altyn_ears_armor",
-    "_tpl": "657bc2e7b30eca976305118d",
+    "_tpl": "657bc107aab96fccee08be9f",
     "parentId": "altyn",
     "slotId": "Helmet_ears"
 },
@@ -622,13 +622,13 @@
 },
 {
     "_id": "rys_top_armor",
-    "_tpl": "657f8ec5f4c82973640b234c",
+    "_tpl": "657bc285aab96fccee08bea3",
     "parentId": "rys",
     "slotId": "Helmet_top"
 },
 {
     "_id": "rys_nape_armor",
-    "_tpl": "657f8f10f4c82973640b2350",
+    "_tpl": "657bc2c5a1c61ee0c3036333",
     "parentId": "rys",
     "slotId": "Helmet_back"
 },

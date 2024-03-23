@@ -1,7 +1,7 @@
 ## Dependencies
 
-Tarkov - https://www.escapefromtarkov.com/  
-SPTarkov - https://www.sp-tarkov.com/#download
+Tarkov - https://www.escapefromtarkov.com/   
+SPTarkov - https://www.sp-tarkov.com/#download  
 Ms.Stola Mod - https://hub.sp-tarkov.com/files/file/1516-ms-stola/
 
 ## Installation
